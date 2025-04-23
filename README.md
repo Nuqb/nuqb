@@ -35,3 +35,5 @@
     Now, I am exploring what projects I can create with a variety of programming languages and tools. I’ve spent hundreds of hours on assignments, but they don’t feel substantial enough to help me land a job. Realizing this, and after facing rejections from internships, I’ve decided to use my ambition to do everything I can to secure an internship for my final summer as a college student.
   </p>
 </details>
+
+### Pinned Projects
