@@ -44,4 +44,4 @@
 A simple app that lets you create custom decks of flashcards based on any subject.
 
 #### 🔹 [Liars' Dice](https://github.com/Nuqb/Liars-Dice)  
-A real-time multiplayer implementation of the classic Liars' Dice game using Node.js, Express, and WebSocket technology.
+A real-time multiplayer implementation of the classic Liars' Dice game.
