@@ -4,7 +4,7 @@
 > 📁 More details about each project can be found in their respective repositories.
 
 #### 🔹 [TextAnnotator](https://github.com/Nuqb/TextAnnotator)
-Made my own way to study music lyrics and texts.
+Made my own way to study music lyrics and analyze texts.
 
 #### 🔹 [YouTube to MP3](https://github.com/Nuqb/youtubeToMP3)
 As simple as it sounds, check it out.
