@@ -1,3 +1,6 @@
+### Co-Founder of Funnl (https://funnlit.com)
+Making lives easier when searching for a place to sell or purchase a lease
+
 ### 🧑‍💻 Pinned Projects
 
 > ⏳ These projects are deployed on [Render](https://render.com), so it may take up to **30 seconds** for the site to load.  
