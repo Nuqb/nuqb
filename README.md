@@ -1,4 +1,4 @@
-### Co-Founder of Funnl (https://funnlit.com)
+### Co-Founder of [Funnl](https://funnlit.com)
 Making lives easier when searching for a place to sell or purchase a lease
 
 ### 🧑‍💻 Pinned Projects
