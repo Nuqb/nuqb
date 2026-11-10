@@ -32,6 +32,6 @@ Here you’ll find software built without that.
 **[YouTube to MP3](https://github.com/Nuqb/youtubeToMP3)**
 
 <p>
-  <a href="https://github.com/Nuqb/youtubeToMP3"><img src="assets/youtube-to-mp3.svg" width="40" height="40" alt="YouTube to MP3 icon" /></a>
+  <a href="https://github.com/Nuqb/youtubeToMP3"><img src="./youtube-to-mp3.svg" width="40" height="40" alt="YouTube to MP3 icon" /></a>
   &nbsp; Convert YouTube videos to MP3. Simple as that.
 </p>
