@@ -9,6 +9,7 @@ It's like I hand out money but I own nothing.
 **Here you'll find software built without that.**
 </div>
 <br />
+
 ## Projects
 <table width="100%">
   <tr>
