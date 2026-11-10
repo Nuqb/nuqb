@@ -1,13 +1,11 @@
 ### Co-Founder of [Funnl](https://funnlit.com)
 Making lives easier when searching for a place to sell or purchase a lease
 
-## Projects
+### Projects
 
-<a href="https://github.com/Nuqb/shrapwill">
-  <img src="https://raw.githubusercontent.com/Nuqb/shrapwill/main/Source/src-tauri/icons/shrapwill-master.png" width="48" height="48" align="left" alt="Shrapwill icon" />
-</a>
-
-**[Shrapwill](https://github.com/Nuqb/shrapwill)**  
-A simple video editor for Windows.
-
-<br clear="left" />
+<p>
+  <a href="https://github.com/Nuqb/shrapwill"><img src="https://raw.githubusercontent.com/Nuqb/shrapwill/main/Source/src-tauri/icons/shrapwill-master.png" width="40" height="40" alt="Shrapwill icon" /></a>
+  &nbsp;
+  <a href="https://github.com/Nuqb/shrapwill"><strong>Shrapwill</strong></a>
+  — A simple video editor for Windows.
+</p>
