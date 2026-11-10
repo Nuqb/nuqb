@@ -35,3 +35,15 @@ Here you’ll find software built without that.
   <a href="https://github.com/Nuqb/youtubeToMP3"><img src="./youtube-to-mp3.svg" width="40" height="40" alt="YouTube to MP3 icon" /></a>
   &nbsp; Convert YouTube videos to MP3. Simple as that.
 </p>
+
+---
+
+**[Discord DM Cleaner](https://github.com/Nuqb/discord-dm-cleaner)**
+
+<p>
+  <a href="https://github.com/Nuqb/discord-dm-cleaner"><img src="https://raw.githubusercontent.com/Nuqb/discord-dm-cleaner/main/assets/logo.png" width="40" height="40" alt="Discord DM Cleaner icon" /></a>
+  &nbsp; Review and delete your own messages in a one-to-one Discord DM.
+</p>
+
+**Tech stack** · C# · .NET Framework · Windows Forms  
+<sub>Windows only · Unofficial tool</sub>
