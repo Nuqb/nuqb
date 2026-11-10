@@ -7,9 +7,7 @@ I'm tired of slop software with poor performance, subscriptions, ads, and AI fea
 It's like I hand out money but I own nothing.
 
 **Here you'll find software built without that.**
-
 </div>
-
 <br />
 
 ## Projects
