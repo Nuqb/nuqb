@@ -1,5 +1,8 @@
-### Co-Founder of [Funnl](https://funnlit.com)
-Making lives easier when searching for a place to sell or purchase a lease
+# Good software should be affordable… or free.
+
+I’m tired of software with poor performance, endless subscriptions, ads, and AI features pushed in your face.
+
+Here you’ll find software built without that clutter.
 
 ### Projects
 
@@ -7,5 +10,8 @@ Making lives easier when searching for a place to sell or purchase a lease
 
 <p>
   <a href="https://github.com/Nuqb/shrapwill"><img src="https://raw.githubusercontent.com/Nuqb/shrapwill/main/Source/src-tauri/icons/shrapwill-master.png" width="40" height="40" alt="Shrapwill icon" /></a>
-  &nbsp; A simple video editor for Windows.
+  &nbsp; A Windows video editor designed to feel more approachable than tools like Adobe Premiere Pro.
 </p>
+
+**Tech stack**  
+React · TypeScript · Tauri · Rust · FFmpeg
