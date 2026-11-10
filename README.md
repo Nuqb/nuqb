@@ -1,11 +1,6 @@
 <div align="center">
 
 # Good software should be affordable… or free.
-
-<img src="https://img.shields.io/badge/ads-none-F28C28?style=for-the-badge" alt="Ads: none" />
-<img src="https://img.shields.io/badge/subscriptions-none-F28C28?style=for-the-badge" alt="Subscriptions: none" />
-<img src="https://img.shields.io/badge/forced_AI-none-F28C28?style=for-the-badge" alt="Forced AI: none" />
-
 <br />
 
 I'm tired of software with poor performance, subscriptions, ads, and AI features pushed in your face.<br />
