@@ -1,8 +1,8 @@
 # Good software should be affordable… or free.
 
-I’m tired of software with poor performance, endless subscriptions, ads, and AI features pushed in your face.
+I’m tired of software with poor performance, subscriptions, ads, and AI features pushed in your face. It's like I hand out money but I own nothing.
 
-Here you’ll find software built without that clutter.
+Here you’ll find software built without that.
 
 ### Projects
 
